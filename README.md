@@ -97,7 +97,7 @@ limit 10;
 | Media                                            | 23017       | 
 
 
-Insight: 
+Insight: Electrical Equipment and Machinery is top 1 in top 10 but we can see the surprise industries are "Pharmaceuticals, Biotechnology & Life Sciences" and Media  
 
 
 
@@ -125,6 +125,7 @@ limit 10;
 | "Daikin Industries, Ltd."               | 105600      | 
 
 Insight:
+"Gamesa Corporación Tecnológica, S.A." is the company name on top 4 with the highest co2 emission which belong to heavy industry. Second with highest co2 emission is car industry which comes from biggest car company such as "Volkswagen, Hino Motors etc.."
 
 
 
@@ -151,8 +152,8 @@ limit 10;
 | Taiwan       | 62875       | 
 | India        | 24574       | 
 
-Insight:
-
+Insight: 
+Western countries contribute a lot in carbon emissions. Surprising that China doesn't show in this list even they have a polluted alert, Taiwan may be a small country however they are in top 9 and India is a big country but they are on top 10.
 
 
 ## What is the trend of carbon footprints (PCFs) over the years?
@@ -199,7 +200,7 @@ limit 10;
 | Mercedes-Benz GLK-Class      | Daimler AG                             | Automobiles & Components           | Germany      | 48800              | 
 | Mercedes-Benz E-Class Saloon | Daimler AG                             | Automobiles & Components           | Germany      | 47200              | 
 
-Insight:
+Insight: 2015 is the highest year that carbon emission, and most of them came from Wind Turbine G128 5 Megawats | "Gamesa Corporación Tecnológica, S.A." | Electrical Equipment and Machinery | Spain  
 
 
 
@@ -237,3 +238,4 @@ Insight:
 
 
 ## Conlusion
+  On the analysis, show us a lot of information thought data. Giving us a true sight of these industries. "green power", media said that it is safe for environment but that was the highest carbon emission. Even "Pharmaceuticals, Biotechnology & Life Sciences" industry which save our life, it have a big effect on carbon emission. 
